@@ -1,1 +1,2 @@
-python main.py
+# Entrypoint
+uvicorn main:app --host 0.0.0.0 --port 8080 --workers 8 --header server:custom-server-name
