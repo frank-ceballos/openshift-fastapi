@@ -1,9 +1,3 @@
 # Quick Start
 
-Use this repository to deploy FastAPI in OpenShift using the S2I building process.
-
-1. Browse Catalog and select a Python image
-2. Provide the git URL for this repository and give your app a name
-3. Build!
-
-
+A detailed explanation on the usage of this repository can be found on this [Medium Article.](https://frank-ceballos.medium.com/deploying-your-first-fastapi-application-in-openshift-857cee7277f9?sk=33b2fb04e44d7098725e7ae2428468bf)
